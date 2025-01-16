@@ -1,0 +1,10 @@
+com\ecuasanitas\model\DetalleFactura.class
+com\ecuasanitas\servlets\LoginServlet.class
+com\mycompany\ecuaeva\JakartaRestConfiguration.class
+com\ecuasanitas\controlador\FacturaServlet.class
+com\ecuasanitas\model\Factura.class
+com\mycompany\ecuaeva\resources\JakartaEE11Resource.class
+com\ecuasanitas\model\Usuario.class
+com\ecuasanitas\dao\UsuarioDAO.class
+com\ecuasanitas\database\DatabaseConnection.class
+com\ecuasanitas\database\TestConexion.class
