@@ -4,9 +4,9 @@ import java.sql.*;
 
 public class UsuarioDAO {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/tu_base_de_datos";
-    private static final String USER = "usuario";
-    private static final String PASSWORD = "contraseña";
+     private static final String URL = "jdbc:sqlserver://ADMIN_CYBER\\FACTURACION;databaseName=Ecuasanitas;trustServerCertificate=true;integratedSecurity=false";
+    private static final String USER = "sa";
+    private static final String PASSWORD = "123";
     
     public String obtenerContraseña(String username) {
         String password = null;
